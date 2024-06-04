@@ -98,15 +98,18 @@ Effective communication is not just about sending messages; it's also about trac
 
 Curious to see how WhatsApp Notification for WHMCS can revolutionize your WHMCS store? Try it for free today and enjoy unrestricted access to all plugin features and APIs for 10 days. Experience firsthand the power of unlimited WhatsApp messaging and take your customer communication to new heights.
 
+## For more information, visit [Whatsiplus.com](https://whatsiplus.com).
+
+
 ## Conclusion
 
 The WhatsApp Notification for WHMCS plugin is a powerful tool that revolutionizes client communication. By automating the process of sending WhatsApp messages for various events, it enhances security, improves client engagement, and ensures timely communication. Whether it's notifying clients about logins, password changes, invoices, or support tickets, this plugin provides a comprehensive solution that caters to the needs of modern businesses. With features like two-factor authentication, multi-language support, and mass messaging, the WhatsApp Notification for WHMCS plugin is an indispensable addition to your WHMCS setup.
 
-## (Get a Free API KEY)[https://panel.whatsiplus.com]
+## [Get a Free API KEY](https://panel.whatsiplus.com)
 
 ## Installation & Download
 
-### Download Whatsiplus Notification Module
+### [Download Whatsiplus Notification Module](https://github.com/whatsiplus/WhatsAppNotificationWHMCS/blob/main/whatsiplusnotification-v1.0.0.zip)
 
 1. Search for “Whatsiplus Notification” in the “WHMCS Market” page and activate it.
 2. Or download the plugin directly from the button above and copy the whatsiplusnotification folder to `modules\addons`.
