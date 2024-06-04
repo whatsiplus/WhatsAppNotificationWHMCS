@@ -94,11 +94,11 @@ Effective communication is not just about sending messages; it's also about trac
 
 
 
-## Try It for Free
+## [Try It for Free](https://panel.whatsiplus.com)
 
 Curious to see how WhatsApp Notification for WHMCS can revolutionize your WHMCS store? Try it for free today and enjoy unrestricted access to all plugin features and APIs for 10 days. Experience firsthand the power of unlimited WhatsApp messaging and take your customer communication to new heights.
 
-## For more information, visit [Whatsiplus.com](https://whatsiplus.com).
+## For more information, visit [Whatsiplus.com](https://whatsiplus.com)
 
 
 ## Conclusion
