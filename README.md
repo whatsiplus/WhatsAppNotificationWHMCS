@@ -1,6 +1,3 @@
-```markdown
-_Created with [AIPRM Prompt "Readme Generator | Markdown Format | GitHub."](https://www.aiprm.com/prompts/softwareengineering/text-editor/1794387468406222848/)_
-
 # WhatsApp Notification for WHMCS
 
 In today's fast-paced digital world, effective and timely communication with clients is crucial for maintaining strong relationships and ensuring smooth business operations. This is where the WhatsApp Notification for WHMCS plugin shines, providing an advanced notification system that automates sending WhatsApp messages to clients for various events. From client logins to overdue invoices, this plugin ensures that your clients are always in the loop. Let's dive into how this powerful tool can transform your client communication strategy.
@@ -95,7 +92,7 @@ Effective communication is not just about sending messages; it's also about trac
 
 ## Plugin Gallery
 
-![Plugin Screenshot](link-to-screenshot)
+
 
 ## Try It for Free
 
