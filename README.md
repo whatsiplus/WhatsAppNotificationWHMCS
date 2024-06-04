@@ -50,6 +50,9 @@ The WhatsApp Notification is designed to improve client engagement and enhance s
 
 ## Plugin Gallery
 
+[![ScreenShot1]([http://your-image-url.com/image.jpg](https://github.com/whatsiplus/WhatsAppNotificationWHMCS/blob/main/screenshot1.png))](https://github.com/whatsiplus/WhatsAppNotificationWHMCS/blob/main/screenshot1.png)
+
+[![ScreenShot2](http://your-image-url.com/image.jpg)](https://github.com/whatsiplus/WhatsAppNotificationWHMCS/blob/main/screenshot2.png)
 
 
 ## [Try It for Free](https://panel.whatsiplus.com)
