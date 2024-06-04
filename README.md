@@ -1,8 +1,8 @@
-# Whatsiplus Notification: Enhance Client Communication for WHMCS
+# WhatsApp Notification: Enhance Client Communication for WHMCS
 
-The Whatsiplus Notification offers an advanced notification system that automates sending customized notifications to clients for various events. This powerful tool can transform your client communication strategy.
+The WhatsApp Notification offers an advanced notification system that automates sending customized notifications to clients for various events. This powerful tool can transform your client communication strategy.
 
-## Key Features of the Whatsiplus Notification
+## Key Features of the WhatsApp Notification
 
 ### Client Login Notifications
 Sends alerts when a client logs into their account, enhancing security by helping clients stay aware of any unauthorized access attempts.
@@ -46,7 +46,7 @@ Enables businesses to send bulk messages for announcements, promotions, or other
 ### Log and Tracking Features
 Includes features to view sent messages and logs, helping businesses track communication history for auditing purposes.
 
-The Whatsiplus Notification is designed to improve client engagement and enhance security through automated, customizable notifications, making it an essential tool for businesses using WHMCS.
+The WhatsApp Notification is designed to improve client engagement and enhance security through automated, customizable notifications, making it an essential tool for businesses using WHMCS.
 
 ## Plugin Gallery
 
