@@ -1,4 +1,4 @@
-# WhatsApp Notification: Enhance Client Communication for WHMCS
+# WhatsApp Notification for WHMCS: Enhance Client Communication
 
 The WhatsApp Notification offers an advanced notification system that automates sending customized notifications to clients for various events. This powerful tool can transform your client communication strategy.
 
