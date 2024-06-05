@@ -84,4 +84,3 @@ The WhatsApp Notification for WHMCS plugin is a powerful tool that revolutionize
 
 ### 1.0.0
 - Initial version released
-```
