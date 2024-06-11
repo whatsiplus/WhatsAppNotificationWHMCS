@@ -1,4 +1,4 @@
-# WhatsApp Notification for WHMCS: Enhance Client Communication
+# WHMCS WhatsApp Notification Module: Enhance Client Communication
 
 ## [View the full content on the website](https://whatsiplus.com/whatsapp-notification-for-whmcs-whatsiplus-module/)
 
