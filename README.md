@@ -88,5 +88,19 @@ The WhatsApp Notification for WHMCS plugin is a powerful tool that revolutionize
 
 ## Changelog
 
+### 1.1.1 (July 8, 2025)
+- Added automatic Welcome message after successful OTP verification
+- Introduced multilingual support for welcome and verification messages via translation files
+- Added direct WhatsApp message link for easier user verification
+- Improved customization of OTP instructions using $_ADDONLANG[‘wa_verify_message’]
+- Translation-ready messages: welcome_message, wa_verify_message, direct_whatsapp
+
+### 1.1.0 (September 23, 2024)
+- Fixing the problem of blocking the number (adding OTP)
+- Fixed some bugs and problems
+
+### 1.0.1 (June 5, 2024)
+- Fixed the bug of sending PDF in invoices
+
 ### 1.0.0
 - Initial version released
