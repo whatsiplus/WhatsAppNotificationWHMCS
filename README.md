@@ -72,7 +72,8 @@ The WhatsApp Notification for WHMCS plugin is a powerful tool that revolutionize
 
 ## Installation & Download
 
-### [Download Whatsiplus Notification Module](https://whatsiplus.com/upload/whmcs/whmcs_whatsi.zip)
+### [Download Whatsi Notification Module](https://whatsiplus.com/upload/whmcs/whmcs_whatsi.zip) (Recomended)
+
 ### [Download the Pro version from the Telegram channel (Free)](https://t.me/WhatsiPlus/19004)
 
 1. Search for “Whatsi Notification” in the “WHMCS Market” page and activate it.
@@ -82,6 +83,8 @@ The WhatsApp Notification for WHMCS plugin is a powerful tool that revolutionize
 5. Select the Whatsiplus Notification addon and click on the Active button.
 6. After activation, click on the Configure button and give the administrator access to the plugin and click the Save button.
 7. At this stage, the Whatsiplus Notification option will appear in the Addons menu, where you can customize the plugin settings.
+
+### [More info]([https://t.me/WhatsiPlus/19004](https://whatsiplus.com/whatsapp-notification-for-whmcs-whatsiplus-module/))
 
 ## Changelog
 
